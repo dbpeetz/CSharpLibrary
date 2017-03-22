@@ -1,0 +1,5 @@
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.03_strings\bin\Debug\0.03_strings.exe.config
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.03_strings\bin\Debug\0.03_strings.exe
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.03_strings\bin\Debug\0.03_strings.pdb
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.03_strings\obj\Debug\0.03_strings.exe
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.03_strings\obj\Debug\0.03_strings.pdb
