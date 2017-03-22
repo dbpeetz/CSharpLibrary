@@ -1,0 +1,5 @@
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals\bin\Debug\0.04_Conditionals.exe.config
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals\bin\Debug\0.04_Conditionals.exe
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals\bin\Debug\0.04_Conditionals.pdb
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals\obj\Debug\0.04_Conditionals.exe
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals\obj\Debug\0.04_Conditionals.pdb

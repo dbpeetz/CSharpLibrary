@@ -1,0 +1,6 @@
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionls_Switch\bin\Debug\0.04_Conditionls_Switch.exe.config
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionls_Switch\bin\Debug\0.04_Conditionls_Switch.exe
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionls_Switch\bin\Debug\0.04_Conditionls_Switch.pdb
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionls_Switch\obj\Debug\0.04_Conditionls_Switch.csprojResolveAssemblyReference.cache
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionls_Switch\obj\Debug\0.04_Conditionls_Switch.exe
+c:\users\balleronabudget\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionls_Switch\obj\Debug\0.04_Conditionls_Switch.pdb
