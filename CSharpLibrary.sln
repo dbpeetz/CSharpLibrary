@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.05_Challenge", "0.05_Chal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Methods", "0.06_Methods\0.06_Methods.csproj", "{943A9DF0-9411-4574-AEA5-1B20625D2415}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Methods_Challenge", "0.06_Methods_Challenge\0.06_Methods_Challenge.csproj", "{419A4023-9E58-4708-B614-67FD6FFB4CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_Methods_Overloading", "0.08_Methods_Overloading\0.08_Methods_Overloading.csproj", "{A9BA8228-FB48-48F9-9397-4BB3968340B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{943A9DF0-9411-4574-AEA5-1B20625D2415}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{943A9DF0-9411-4574-AEA5-1B20625D2415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{943A9DF0-9411-4574-AEA5-1B20625D2415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419A4023-9E58-4708-B614-67FD6FFB4CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419A4023-9E58-4708-B614-67FD6FFB4CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419A4023-9E58-4708-B614-67FD6FFB4CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419A4023-9E58-4708-B614-67FD6FFB4CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BA8228-FB48-48F9-9397-4BB3968340B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BA8228-FB48-48F9-9397-4BB3968340B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BA8228-FB48-48F9-9397-4BB3968340B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BA8228-FB48-48F9-9397-4BB3968340B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
