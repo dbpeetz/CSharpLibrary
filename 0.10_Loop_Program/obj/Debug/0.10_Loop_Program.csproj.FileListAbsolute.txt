@@ -1,0 +1,5 @@
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loop_Program\bin\Debug\0.10_Loop_Program.exe.config
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loop_Program\bin\Debug\0.10_Loop_Program.exe
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loop_Program\bin\Debug\0.10_Loop_Program.pdb
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loop_Program\obj\Debug\0.10_Loop_Program.exe
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loop_Program\obj\Debug\0.10_Loop_Program.pdb

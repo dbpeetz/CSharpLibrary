@@ -1,0 +1,6 @@
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_For_Loops\bin\Debug\0.10_For_Loops.exe.config
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_For_Loops\bin\Debug\0.10_For_Loops.exe
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_For_Loops\bin\Debug\0.10_For_Loops.pdb
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_For_Loops\obj\Debug\0.10_For_Loops.csprojResolveAssemblyReference.cache
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_For_Loops\obj\Debug\0.10_For_Loops.exe
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_For_Loops\obj\Debug\0.10_For_Loops.pdb
