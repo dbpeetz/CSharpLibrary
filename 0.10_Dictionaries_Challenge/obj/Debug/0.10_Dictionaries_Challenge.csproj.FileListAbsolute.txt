@@ -1,0 +1,6 @@
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Dictionaries_Challenge\bin\Debug\0.10_Dictionaries_Challenge.exe.config
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Dictionaries_Challenge\bin\Debug\0.10_Dictionaries_Challenge.exe
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Dictionaries_Challenge\bin\Debug\0.10_Dictionaries_Challenge.pdb
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Dictionaries_Challenge\obj\Debug\0.10_Dictionaries_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Dictionaries_Challenge\obj\Debug\0.10_Dictionaries_Challenge.exe
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Dictionaries_Challenge\obj\Debug\0.10_Dictionaries_Challenge.pdb
