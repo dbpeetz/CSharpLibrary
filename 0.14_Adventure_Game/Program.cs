@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Speech.Synthesis;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,6 +11,9 @@ namespace _0._14_Adventure_Game
     {
         static void Main(string[] args)
         {
+
+
+
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
             Console.WriteLine("What is your Clan Name?");
@@ -25,13 +29,29 @@ namespace _0._14_Adventure_Game
             int playerType = int.Parse(Console.ReadLine());
 
             Player player = new Player(name, clan);
-            player.ChooseType(0);
+
 
 
             Console.WriteLine(player.ToString());
 
             Orc orc = new Orc();
-            orc.InsultPlayer();
+            while (true)
+            {
+                orc.InsultPlayer();
+                Console.WriteLine("Do you want to fight? y/n");
+                string userAnswer = Console.ReadLine();
+                if (userAnswer == "y")
+                {
+                    orc.OrcAttack(player);
+                }
+                else
+                    break;
+                break;
+
+            }
+            //orc.InsultPlayer();
+           // orc.OrcAttack(player);
+        
 
 
 
