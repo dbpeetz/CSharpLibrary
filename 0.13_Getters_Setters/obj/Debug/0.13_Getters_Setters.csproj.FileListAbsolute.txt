@@ -1,0 +1,6 @@
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Getters_Setters\bin\Debug\0.13_Getters_Setters.exe.config
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Getters_Setters\bin\Debug\0.13_Getters_Setters.exe
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Getters_Setters\bin\Debug\0.13_Getters_Setters.pdb
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Getters_Setters\obj\Debug\0.13_Getters_Setters.csprojResolveAssemblyReference.cache
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Getters_Setters\obj\Debug\0.13_Getters_Setters.exe
+C:\Users\BallerOnABudget\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Getters_Setters\obj\Debug\0.13_Getters_Setters.pdb
