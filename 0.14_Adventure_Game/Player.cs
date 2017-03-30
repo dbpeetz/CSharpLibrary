@@ -25,7 +25,7 @@ namespace _0._14_Adventure_Game
 
 
 
-        public Player(string name, string clanName, CharacterType type = CharacterType.HorseMange)
+        public Player(string name, string clanName, CharacterType type = CharacterType.Human)
         {
             this.PlayerName = name;
             this.Clan = clanName;
